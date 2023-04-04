@@ -1,0 +1,24 @@
+@font-face {
+    font-family:Titl;
+    src: url(TiltWarp-Regular-VariableFont_XROT\,YROT.ttf);
+    }
+body{
+    background-color: rgb(21, 167, 220);
+    font-family:Titl;
+
+}
+.texto-centrado{
+    text-align: center;
+    background-color: rgb(17, 213, 27);
+    border-radius: 30px;
+}
+a{
+    width: 20%;
+}
+img{
+    width: 100%;
+}
+#imagen-boton{
+    margin: 10% 40% 10% 40%;
+    display: block;
+}
